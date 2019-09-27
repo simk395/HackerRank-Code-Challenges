@@ -1,3 +1,4 @@
+//not efficient enough
 function activityNotifications(e, d) {
   let notices = 0,
     start = 0,
